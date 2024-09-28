@@ -1,2 +1,8 @@
 # Virtuabooks
-All I come to the table with is this idea for an ai powered product. I cannot code I am looking for someone who will listen to my idea and let me know if it's something worth doing.
+Ai powered tool where the user provides an electronic text copy of a story book,(Novels, children's nursery rhymes instruction manuals the sky's the limit).
+The tool will depict the contents of the book by creating simulated environments on a monitor or in 3d with a headset like the quest 3. (I just ordered one, first headset, super excited)
+The tool may rewrite the story in small ways to cast the user as one of the main characters or write in a whole new character played by the user giving them options, how involved they want to be in the story. 
+On the lowest level they take no direct part in the story except to choose some parameters like illustration style, setting preferences etc. On the highest level the user plays a very active role in the story as they solve puzzles, and make decisions that may alter the storyline in small ways. The tool will always transition back to the original plot of the story and lead it to its conclusion. (conclusion parameters can be set to generate a happy ending instead of the original sad ending)
+They become immersed as the scenes and characters are illustrated in still pictures, claymation or stunning cgi environments all created by the ai.
+This (in my unstudird opinion) should be a server based service to manage copywrite issues and such like. However original content creators can decide to share their work freely as they choose.
+I dont know if this is the right place to share this idea or of its even doable but I read that Github was a safe space. Please send an email to neville_bowen@yahoo.com if you've read this and you think it could be a thing. If you can make some connections or point me in the right direction Even better.
